@@ -1,5 +1,4 @@
-# Title: Lab #1 lo-hi, Samme Qandil
-# Body : Copy paste from repl
+#lo-hi game
 # games details 
 # you have to have a random number generator probably some kind of function called Random
 # you have to guess a random number from 1-10
